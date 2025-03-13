@@ -1,1 +1,1 @@
-# Anki-Cards-for-Amateur-Radio-Operator-Certificate-Examinations-Advanced-Qualification
+# Anki-Deck-for-Amateur-Radio-Operator-Certificate-Examinations-Advanced-Qualification
