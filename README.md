@@ -8,7 +8,7 @@ The questions in this deck are taken from the file **"Amateur basic questions (d
 
 ## Features
 - Questions are presented in an Anki flashcard format.
-- Answers are randomized.
+- The order of the multiple choice answers are randomized.
 
 ## Usage
 1. Download the Anki deck file (.apkg).
